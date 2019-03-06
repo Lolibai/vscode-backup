@@ -1,0 +1,57 @@
+{
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "git.autofetch": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 1,
+    "breadcrumbs.enabled": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "blankLine.keepOneEmptyLine": true,
+    "blankLine.triggerOnSave": true,
+    "html.format.endWithNewline": true,
+    "angular-template-formatter.closeTagSameLine": true,
+    "javascript.preferences.quoteStyle": "single",
+    "jenkins.pipeline.linter.connector.url": "http://194.44.111.70:22176/pipeline-model-converter/validate",
+    "jenkins.pipeline.linter.connector.user": "Lolibai",
+    "jenkins.pipeline.linter.connector.pass": "Lolkibai13",
+    "jenkins.pipeline.linter.connector.crumbUrl": "http://194.44.111.70:22176/crumbIssuer/api/xml?xpath=concat(//crumbRequestField,%22:%22,//crumb",
+    "editor.minimap.enabled": false,
+    "editor.minimap.maxColumn": 140,
+    "html.format.wrapLineLength": 140,
+    "editor.parameterHints.cycle": true,
+    "editor.renderControlCharacters": false,
+    "editor.smoothScrolling": true,
+    "editor.tabCompletion": "on",
+    "angular-template-formatter.indentWidth": 2,
+    "bracketPairColorizer.colorMode": "Independent",
+    "bracketPairColorizer.forceIterationColorCycle": true,
+    "bracketPairColorizer.forceUniqueOpeningColor": true,
+    "editor.renderWhitespace": "none",
+    "editor.trimAutoWhitespace": false,
+    "material-icon-theme.showUpdateMessage": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Night Owl",
+    "todohighlight.keywords": [
+        {
+            "text": "DONE:",
+            "color": "#fff",
+            "backgroundColor": "green",
+            "overviewRulerColor": "grey"
+        },
+    ],
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true,
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "eslint.alwaysShowStatus": true,
+    "eslint.packageManager": "yarn",
+    "eslint.autoFixOnSave": true,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true
+}
